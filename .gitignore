@@ -1,0 +1,11 @@
+# MATLAB temp
+*.asv
+*.autosave
+*.fig
+
+# macOS
+.DS_Store
+
+# MATLAB live autosaves
+*.mlx~
+
